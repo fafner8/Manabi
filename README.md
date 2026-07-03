@@ -20,3 +20,7 @@ Manabi is a brand new Japanese N+1 core Anki deck, which aims to expand and impr
 Additional features: normalized audio loudness, specifically marked common する verbs and な adjectives, and all new vocabulary highlighted inside the sentences like in Kaishi.
 
 *The example sentences sometimes make use of easily recognizable English-derived katakana words without introducing them in dedicated cards (but some harder katakana words get their own cards).
+
+<b>Credits</b>
+
+The example sentences and audio recordings were taken from the following decks: Core2k6k, Core10k, Tango, Kaishi 1.5k, 4,217 Japanese Sentences, glossika, A Frequency Dictionary of Japanese, JLPT N5 Kanji JPod101, jpdb, and a few anime and TV shows soundtracks.
