@@ -1,5 +1,5 @@
 # Manabi
-Manabi is a brand-new core deck, which aims to expand and improve upon other existing core decks. Manabi is not a simple repackage of the old core 2k/6k decks but rather it makes use of a much wider variety of example sentences (all with audio and furigana) that use natural and colloquial language, not available in other core decks. 
+Manabi is a brand new N+1 core deck, which aims to expand and improve upon other existing core decks. Manabi is not a simple repackage of the old core 2k/6k decks but rather it makes use of a much wider variety of example sentences (all with audio and furigana) that use natural and colloquial language, not available in other core decks. 
 
 <b> Introduces vocabulary following N+1 </b> – All example sentences introduce only one new word per card, with very few exceptions.*
 
