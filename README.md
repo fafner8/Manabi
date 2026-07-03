@@ -27,9 +27,9 @@ The majority of the sentences used in the deck come from the old core 2k6k decks
 
 Some of the frequency lists I used to order the cards: [Link](https://www.youtube.com/watch?v=DwJWld8hW0M), [Link](https://docs.google.com/spreadsheets/d/1xeG-b85EHwo-yUDgwDLuWyYdwtnDgJAzr3VTmteMOaA/edit?gid=1886769620#gid=1886769620), [Link](https://docs.google.com/document/d/1IUWkvBxhoazBSTyRbdyRVk7hfKE51yorE86DCRNQVuw/edit?tab=t.0), [Jo-Mako's Japanese Guide](https://docs.google.com/spreadsheets/d/1z3Wc85VuDhjgjy1s_zgbGx2daaOoqm0s/edit?gid=893750221#gid=893750221). Other lists I generated myself using YouTube captions from easy Japanese channels and SOL anime.
 
-Nothing in this deck is AI generated, except I used AI to help me build various scripts for ordering the cards, generating furigana and proofing. The furigana was generated using Mecab + UniDic + JMdict (and then checked and proofed). 
+Nothing in this deck is AI generated, except I relied on AI to help me build various scripts for ordering the cards, generating furigana and proofing. The furigana was generated using Mecab + UniDic + JMdict (and then checked and proofed). 
 
- I’m the only person who’s been involved in making this deck (aside from small consultations), so if you wish to volunteer to help me further proof the deck you can contact me at fafner1988@gmail.com 
+I’m the only person who’s been involved in making this deck (aside from small consultations), so if you wish to volunteer to help me further proof the deck you can contact me at fafner1988@gmail.com 
 
 # Credits
 
