@@ -24,6 +24,7 @@ Additional features: normalized audio loudness, specifically marked common す�
 # How this deck was put together
 
 The majority of the sentences used in the deck come from the old core 2k6k decks (which originate from the iKnow website). Additional sentences came from other decks credited below, and occasionally anime. The basic vocabulary selection and English translations were taken from the core 6k and Kaishi 1.5k decks. This however was only the starting point and the selection of vocabulary was greatly expanded using other sources like frequency lists, and the English translation were in many cases improved when needed. The final ordering of the cards is a result of complicated balancing between frequency ranking and constrains from available example sentences for a given vocab.
+
 Nothing in this deck is AI generated, except I used AI to help me build various scripts for ordering the cards, generating furigana and proofing. The furigana was generated using Mecab + UniDic (and then checked and proofed). 
 
  I’m the only person who’s been involved in making this deck (aside from small consultations), so if you wish to volunteer to help me further proof the deck you can contact me at fafner1988@gmail.com 
