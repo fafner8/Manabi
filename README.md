@@ -23,7 +23,7 @@ Additional features: normalized audio loudness, specifically marked common す�
 
 # How this deck was put together
 
-The majority of the sentences and audio used in the deck come from the old core 2k6k decks (which originate from the iKnow website). Additional sentences came from other decks credited below, and occasionally anime. The basic vocabulary selection and English translations were taken from the core 6k and Kaishi 1.5k decks. This however was only the starting point and the selection of vocabulary was greatly expanded using other sources like frequency lists, and the English translation were in many cases improved when needed. The final ordering of the cards is a result of complicated balancing between frequency ranking and constrains from available example sentences for a given vocab.
+The majority of the sentences and audio used in the deck come from the old core 2k6k decks (which originate from the iKnow website). Additional sentences came from multiple other decks taken found in ankiweb (credited below), and occasionally anime and video games. The basic vocabulary selection and English translations were taken from the core 6k and Kaishi 1.5k decks. This however was only the starting point and the selection of vocabulary was greatly expanded using other sources like frequency lists. The English translation were in many cases improved when needed, primarily by consulting Jisho. The final ordering of the cards is a result of complicated balancing between frequency ranking and constrains from available example sentences for a given vocab.
 
 Some of the frequency lists I used to order the cards are: [Netflix](https://docs.google.com/document/d/1IUWkvBxhoazBSTyRbdyRVk7hfKE51yorE86DCRNQVuw/edit?tab=t.0](https://docs.google.com/document/d/1IUWkvBxhoazBSTyRbdyRVk7hfKE51yorE86DCRNQVuw/edit?tab=t.0)), [anime](https://docs.google.com/spreadsheets/d/1xeG-b85EHwo-yUDgwDLuWyYdwtnDgJAzr3VTmteMOaA/edit?gid=1886769620#gid=1886769620), [Jo-Mako's Japanese Guide](https://docs.google.com/spreadsheets/d/1z3Wc85VuDhjgjy1s_zgbGx2daaOoqm0s/edit?gid=893750221#gid=893750221). Other lists I generated myself using YouTube captions from easy Japanese channels and SOL anime.
 
@@ -33,4 +33,4 @@ I’m the only person who’s been involved in making this deck (aside from smal
 
 # Credits
 
-The example sentences and audio recordings were taken from the following decks: Core2k6k, Core10k, Tango, Kaishi 1.5k, 4,217 Japanese Sentences, glossika, A Frequency Dictionary of Japanese, JLPT N5 Kanji JPod101, jpdb, and a few anime and TV shows soundtracks.
+The example sentences and audio recordings were taken from the following decks: Core2k6k, Core10k, Tango, Kaishi 1.5k, 4,217 Japanese Sentences, glossika, A Frequency Dictionary of Japanese, JLPT N5 Kanji JPod101, jpdb, and a few anime, video game and TV shows soundtracks.
