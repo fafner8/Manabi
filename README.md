@@ -1,7 +1,7 @@
 # Manabi 2.7k highlights
-Manabi is a brand new Japanese N+1 core Anki deck, which aims to expand and improve upon other existing core decks for beginner learners of Japanese. Manabi is not a simple repackage of the old core 2k/6k decks but rather it makes use of a much wider variety of example sentences (all with audio and furigana) that use natural and colloquial language, not available in other core decks. 
-
 [Download the deck here](https://github.com/fafner8/Manabi/releases/)
+
+Manabi is a brand new Japanese N+1 core Anki deck, which aims to expand and improve upon other existing core decks for beginner learners of Japanese. Manabi is not a simple repackage of the old core 2k/6k decks but rather it makes use of a much wider variety of example sentences, all with audio and furigana and newly re-ordered, that use natural and colloquial language, not available in other core decks. 
 
 <b> Introduces vocabulary following N+1 </b> – All example sentences introduce only one new word per card, with very few exceptions.*
 
