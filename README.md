@@ -21,6 +21,13 @@ Additional features: normalized audio loudness, specifically marked common す�
 
 *The example sentences sometimes make use of easily recognizable English-derived katakana words without introducing them in dedicated cards (but some harder katakana words get their own cards).
 
+Card front & back format:
+<img width="1283" height="667" alt="deck1" src="https://github.com/user-attachments/assets/42a26376-eb2a-4993-8066-71cc2230ef78" />
+
+Card front of the kana deck:
+
+<img width="643" height="292" alt="deck2" src="https://github.com/user-attachments/assets/1371c14f-3a06-4258-ab05-fc6858b4f686" />
+
 # Why this deck was made, and how it differs from other core decks
 
 Kaishi 1.5k is currently the most popular beginner deck (and deservedly so), but although it’s very well-put together, it still falls short in several respects which I believe justified making yet another core deck (see below). For this reason, the deck is not just a fork or expansion of Kaishi but was built from scratch, with everything being newly reordered, and a lot of added new sentences and audio from sources that weren’t used by Kaishi (including the first 1.5k words). There’s still naturally a lot of overlap with Kaishi because the deck, just like Kaishi, draws from the same pool of sentences from the core 6k & Tango decks (which ultimately come from the iKnow website) since they have high quality audio recordings by professional voice actors.
