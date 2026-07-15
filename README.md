@@ -32,7 +32,7 @@ Card front of the kana deck:
 
 # Why this deck was made, and how it differs from other core decks
 
-Kaishi 1.5k is currently the most popular beginner deck (and deservedly so), but although it’s very well-put together, it still falls short in several respects which I believe justified making yet another core deck (see below). For this reason, the deck is not just a fork or expansion of Kaishi but was built from scratch, with everything being newly reordered, and a lot of added new sentences and audio from sources that weren’t used by Kaishi (including the first 1.5k words). There’s still naturally a lot of overlap with Kaishi because the deck, just like Kaishi, draws from the same pool of sentences from the core 6k & Tango decks (which ultimately come from the iKnow website) since they have high quality audio recordings by professional voice actors.
+Kaishi 1.5k is currently the most popular beginner deck (and deservedly so), but although it’s very well-put together, it still falls short in several respects which I believe justified making yet another core deck (see below). For this reason, the deck is not just a fork or expansion of Kaishi but was built from scratch, with everything being newly reordered, and a lot of added new sentences and audio from sources that weren’t used by Kaishi (including in the first 1.5k words). There’s still naturally a lot of overlap with Kaishi because the deck, just like Kaishi, draws from the same pool of sentences from the core 6k & Tango decks (which ultimately come from the iKnow website) since they have high quality audio recordings by professional voice actors.
 
 The deck attempts to solve two main problems which I found with Kaishi:
 
