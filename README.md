@@ -31,7 +31,15 @@ Card front of the kana deck:
 
 <img width="643" height="292" alt="deck2" src="https://github.com/user-attachments/assets/1371c14f-3a06-4258-ab05-fc6858b4f686" />
 
-# Why this deck was created, and how it differs from other core decks
+## How to use this deck
+
+The deck presupposes ability to read hiragana & katakana, and it’s highly recommended to learn about particles and basic conjugations before doing the deck (or at least study the relevant grammar points as you go). The vast majority of the sentences in the deck only use N5-N4 grammar, and I specifically tried to keep the sentences as short and grammatically simple as possible, with occasional brief notes added to explain grammar points which might confuse beginners.
+
+The deck is also not a substitute to immersion, and you should start immersing as early as possible (or at least after finishing the first 1k cards or so), as immersion helps to reinforce the vocabulary learned through SRS. I believe the advantage of a core deck is that it removes the pressure from needing to mine unknown words which can be very overwhelming in the beginner stages (but you can also use a separate mining deck alongside Manabi, if you find that effective).
+
+The deck comes in two versions: the first is kanji oriented (it has only the word in kanji on the front) and the second version focuses on vocabulary and adds furigana and word audio on the front (so you only need to recall the English definition). You can choose either, depending on your learning style and priorities. Both decks include the example sentence on card front like Kaishi does, but the sentences can easily be removed by editing the note type.
+
+## Why this deck was created, and how it differs from other core decks
 
 Kaishi 1.5k is currently the most popular beginner deck (and deservedly so), but although it’s very well-put together, it still falls short in several respects which I believe justified making yet another core deck (see below). For this reason, the deck is not just a fork or expansion of Kaishi but was built from scratch, with everything being newly reordered, and a lot of added new sentences and audio from sources that weren’t used by Kaishi (including in the first 1.5k words). There’s still naturally a lot of overlap with Kaishi because the deck, just like Kaishi, draws from the same pool of sentences from the core 6k & Tango decks (which ultimately come from the iKnow website) since they have high quality audio recordings by professional voice actors.
 
@@ -45,7 +53,7 @@ To my knowledge, the creators of Kaishi relied on a single frequency list (JPDB)
 
 Another relatively small issue in Kaishi is poor audio quality for some words and sentences. I tried to find better audio recordings whenever possible, and particularly word audio was carefully selected from the best available sources, improving upon the audio in Kaishi for a large number of words.
 
-# How this deck was made
+## How this deck was made
 
 The majority of the sentences and audio used in the deck come from the old core 2k6k decks (which originate from the iKnow website). Additional sentences came from multiple other decks taken found in ankiweb (credited below), and occasionally anime and video games. The basic vocabulary selection and English translations were taken from the core 6k and Kaishi 1.5k decks. This however was only the starting point and the selection of vocabulary was greatly expanded using other sources like frequency lists. The English translation were in many cases improved when needed, primarily by consulting Jisho. The final ordering of the cards is a result of complicated balancing between frequency ranking and constrains from available example sentences for a given vocab.
 
