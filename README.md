@@ -33,7 +33,7 @@ Card front of the kana deck:
 
 ## How to use this deck
 
-The deck presupposes ability to read hiragana & katakana, and it’s highly recommended to learn about particles and basic conjugations before doing the deck (or at least study the relevant grammar points as you go). The vast majority of the sentences in the deck only use N5-N4 grammar, and I specifically tried to keep the sentences as short and grammatically simple as possible, with occasional brief notes added to explain grammar points which might confuse beginners.
+The deck presupposes the ability to read hiragana & katakana, and it’s also highly recommended to learn about particles and basic conjugations before doing the deck (or at least study the relevant grammar points as you go). The vast majority of the sentences in the deck only use N5-N4 grammar, and I specifically tried to keep the sentences as short and grammatically simple as possible, with occasional brief notes added to explain grammar points which might confuse beginners.
 
 The deck is also not a substitute to immersion, and you should start immersing as early as possible (or at least after finishing the first 1k cards or so), as immersion helps to reinforce the vocabulary learned through SRS. I believe the advantage of a core deck is that it removes the pressure from needing to mine unknown words which can be very overwhelming in the beginner stages (but you can also use a separate mining deck alongside Manabi, if you find that effective).
 
