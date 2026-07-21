@@ -42,7 +42,7 @@ The deck comes in two versions: the first is kanji oriented (it has only the wor
 I would personally recommend to not read the example sentence before attempting to recall the word’s meaning, in order to avoid memorizing the sentence instead of the word. It goes without saying that you are much more likely to be able to recall the word’s meaning and reading ‘in the wild’ if you can recall it without having to see the example sentence. But this doesn’t mean the example sentences are useless, because they can help you understand how the word is used in context and its grammatical role. Additionally, the sentence can serve as a mnemonic if you are able to associate the sentence with the word and recall the sentence (from memory) when you see the word, serving as a reminder for the word’s meaning.
 
 
-To remove the front sentence go to tools -> manage note type - > select Manabi from the list -> cards -> and the in ‘front template’ remove the line that contains {Sentence} (or {furigana:Sentence Furigana} in the kana deck).
+To remove the front sentence go to tools -> manage note type - > select Manabi from the list -> cards -> and in ‘front template’ remove the line that contains {Sentence} (or {furigana:Sentence Furigana} in the kana deck).
 
 ## Why this deck was created, and how it differs from other core decks
 
