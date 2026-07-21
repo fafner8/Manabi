@@ -37,7 +37,9 @@ The deck presupposes the ability to read hiragana & katakana, and it’s also hi
 
 The deck is also not a substitute to immersion, and you should start immersing as early as possible (or at least after finishing the first 1k cards or so), as immersion helps to reinforce the vocabulary learned through SRS. I believe the advantage of a core deck is that it removes the pressure from needing to mine unknown words which can be very overwhelming in the beginner stages (but you can also use a separate mining deck alongside Manabi, if you find that effective).
 
-The deck comes in two versions: the first is kanji oriented (it has only the word in kanji on the front) and the second version focuses on vocabulary and adds furigana and word audio on the front (so you only need to recall the English definition). You can choose either, depending on your learning style and priorities. Both decks include the example sentence on card front like Kaishi does, but the sentences can easily be removed by editing the note type.
+The deck comes in two versions: the first is kanji oriented (it has only the word in kanji on the front) and the second version focuses on vocabulary and adds furigana and word audio on the front (so you only need to recall the English definition). You can choose either, depending on your learning style and priorities. Both decks include the example sentence on card front like Kaishi does, but the sentences can easily be removed by editing the card's front template.
+
+To remove the front sentence go to tools -> manage note type - > select Manabi from the list -> cards -> and the in ‘front template’ remove the line that contains {Sentence} (or {furigana:Sentence Furigana} in the kana deck).
 
 ## Why this deck was created, and how it differs from other core decks
 
