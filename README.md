@@ -35,6 +35,14 @@ Card front of the kana deck:
 
 The deck presupposes the ability to read hiragana & katakana, and it’s also highly recommended to learn about particles and basic conjugations before doing the deck (or at least study the relevant grammar points as you go). The vast majority of the sentences in the deck only use N5-N4 grammar, and I specifically tried to keep the sentences as short and grammatically simple as possible, with occasional brief notes added to explain grammar points which might confuse beginners.
 
+The most essential parts of grammar, without which it would be very difficult to understand any of the example sentences are as follows:
+
+Particles: の, を, に, で, と, も, か, わ, が, だ, です
+
+Verb conjugation: た-form, て-form (and ている), ない-form, たい form (desire), volitional form (e.g. 行こう/行きましょう), the corresponding conjugations of the ます from, adjective conjugations.
+
+Other conjugations are less essential (you can study them as you go), and lots of other grammar points, that are thought as such in textbooks, are treated as vocabulary items and you can learn them through the deck.
+
 The deck is also not a substitute to immersion, and you should start immersing as early as possible (or at least after finishing the first 1k cards or so), as immersion helps to reinforce the vocabulary learned through SRS. I believe the advantage of a core deck is that it removes the pressure from needing to mine unknown words which can be very overwhelming in the beginner stages (but you can also use a separate mining deck alongside Manabi, if you find that effective).
 
 The deck comes in two versions: the first is kanji oriented (it has only the word in kanji on the front) and the second version focuses on vocabulary and adds furigana and word audio on the front (so you only need to recall the English definition). You can choose either, depending on your learning style and priorities. Both decks include the example sentence on card front like Kaishi does, but the sentences can easily be removed by editing the card's front template (see below).
