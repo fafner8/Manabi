@@ -37,7 +37,7 @@ The deck presupposes the ability to read hiragana & katakana, and it’s also hi
 
 The most essential parts of grammar, without which it would be very difficult to understand any of the example sentences are as follows:
 
-Particles: の, を, に, で, と, も, か, わ, が, だ, です
+Particles: の, を, に, で, と, も, か, は, が, だ, です
 
 Verb conjugation: た-form, て-form (and ている), ない-form, たい form (desire), volitional form (e.g. 行こう/行きましょう), the corresponding conjugations of the ます from, adjective conjugations.
 
