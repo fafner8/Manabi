@@ -41,7 +41,7 @@ Particles: の, を, に, で, と, も, か, わ, が, だ, です
 
 Verb conjugation: た-form, て-form (and ている), ない-form, たい form (desire), volitional form (e.g. 行こう/行きましょう), the corresponding conjugations of the ます from, adjective conjugations.
 
-Other conjugations are less essential (you can study them as you go), and lots of other grammar points, that are thought as such in textbooks, are treated as vocabulary items and you can learn them through the deck.
+Other conjugations are less essential (you can study them as you go), and lots of other grammar points, that are often taught as such in textbooks, are treated as vocabulary items and you can learn them through the deck.
 
 The deck is also not a substitute to immersion, and you should start immersing as early as possible (or at least after finishing the first 1k cards or so), as immersion helps to reinforce the vocabulary learned through SRS. I believe the advantage of a core deck is that it removes the pressure from needing to mine unknown words which can be very overwhelming in the beginner stages (but you can also use a separate mining deck alongside Manabi, if you find that effective).
 
