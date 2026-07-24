@@ -82,4 +82,4 @@ I’m the only person who’s been involved in making this deck (aside from smal
 
 # Credits
 
-The example sentences and audio recordings were taken from the following decks: Core2k6k, Core10k, Tango, Kaishi 1.5k, 4,217 Japanese Sentences, glossika, A Frequency Dictionary of Japanese, JLPT N5 Kanji JPod101, jpdb, and a few anime, video game and TV shows soundtracks.
+The example sentences and audio recordings were taken from the following decks: Core2k6k, Core10k, Tango, [Kaishi 1.5k](https://github.com/donkuri/kaishi), 4,217 Japanese Sentences, glossika, A Frequency Dictionary of Japanese, JLPT N5 Kanji JPod101, jpdb, and a few anime, video game and TV shows soundtracks.
