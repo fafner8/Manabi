@@ -35,6 +35,8 @@ Card front of the kana deck:
 
 ## How to use this deck
 
+For people who finished Kaishi 1.5k there is a special tag `Kaishi_word` that allows to select all the words that are in Kaishi and suspend them in bulk. Go to **Browse** -> open ‘tags’ -> select `Kaishi_word` -> select all the filtered cards and click **Toggle Suspend** or ctrl+j.
+
 The deck presupposes the ability to read hiragana & katakana, and it’s also highly recommended to learn about particles and basic conjugations before doing the deck (or at least study the relevant grammar points as you go). The vast majority of the sentences in the deck only use N5-N4 grammar, and I specifically tried to keep the sentences as short and grammatically simple as possible, with occasional brief notes added to explain grammar points which might confuse beginners.
 
 The most essential parts of grammar, without which it would be very difficult to understand any of the example sentences are as follows:
