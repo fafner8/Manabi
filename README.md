@@ -4,6 +4,8 @@ Note: the deck is not affiliated with any other project or resource called Manab
 
 **Note for Kaishi 1.5K users**: the latest update includes a special tag `Kaishi_word` which allows to suspend in bulk all the words that are also included in Kaishi (for more details go to [how to use the deck]( https://github.com/fafner8/Manabi#how-to-use-this-deck))
 
+**Note on updating from versions of the deck older than v1.5**: due to a mistake I made, updating versions of the deck older than v1.5 from the .apkg file results in card duplication (and I sincerely apologize for this). You can either ignore the newest updates because they mostly change very small mistakes (the only major update was v1.3 that fixed some audio that didn’t work on iOS), or you can update the deck by manually importing [this CSV file]( https://github.com/fafner8/Manabi/blob/e75045e94e10cf0edf57f9825b6e98dc1b79440e/Manabi.csv).
+
 # Manabi 2.7k highlights
 
 Manabi is a new Japanese i+1 core Anki deck, which aims to expand and improve upon other existing core decks for beginner learners of Japanese. Manabi is not a simple repackage of the old core 2k/6k decks but rather it makes use of a much wider variety of example sentences, all with audio and furigana, newly re-ordered, that use natural and colloquial language, not available in other core decks. 
