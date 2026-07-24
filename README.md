@@ -37,9 +37,9 @@ The deck presupposes the ability to read hiragana & katakana, and it’s also hi
 
 The most essential parts of grammar, without which it would be very difficult to understand any of the example sentences are as follows:
 
-Particles: の, を, に, で, と, も, か, は, が, だ, です
+**Particles**: の, を, に, で, と, も, か, は, が, だ, です
 
-Verb conjugations: た-form, て-form (and ている), ない-form, たい form (desire), volitional form (e.g. 行こう/行きましょう), the corresponding conjugations of the ます from, adjective conjugations.
+**Verb conjugations**: た-form, て-form (and ている), ない-form, たい form (desire), volitional form (e.g. 行こう/行きましょう), the corresponding conjugations of the ます from, adjective conjugations.
 
 Other conjugations are less essential (you can study them as you go), and lots of other grammar points, that are often taught as such in textbooks, are treated as vocabulary items and you can learn them through the deck.
 
@@ -50,7 +50,7 @@ The deck comes in two versions: the first is kanji oriented (it has only the wor
 I would personally recommend to not read the example sentence before attempting to recall the word’s meaning, in order to avoid memorizing the sentence instead of the word. It goes without saying that you are much more likely to be able to recall the word’s meaning and reading ‘in the wild’ if you can recall it without having to see the example sentence. But this doesn’t mean the example sentences are useless, because they can help you understand how the word is used in context and its grammatical role. Additionally, the sentence can serve as a mnemonic if you are able to associate the sentence with the word and recall the sentence (from memory) when you see the word, serving as a reminder for the word’s meaning.
 
 
-To remove the front sentence go to tools -> manage note type - > select Manabi from the list -> cards -> and in ‘front template’ remove the line that contains {Sentence} (or {furigana:Sentence Furigana} in the kana deck).
+To remove the front sentence go to **tools** -> **manage note type** - > select **Manabi** from the list -> **cards** -> and in **front template** remove the line that contains `{Sentence}` (or `{furigana:Sentence Furigana}` in the kana deck).
 
 ## Why this deck was created, and how it differs from other core decks
 
