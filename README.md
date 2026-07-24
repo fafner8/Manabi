@@ -2,6 +2,8 @@
 
 Note: the deck is not affiliated with any other project or resource called Manabi.
 
+**Note for Kaishi 1.5K users**: the latest update includes a special tag `Kaishi_word` which allows to suspend in bulk all the words that are also included in Kaishi (for more details go to [how to use the deck]( https://github.com/fafner8/Manabi#how-to-use-this-deck))
+
 # Manabi 2.7k highlights
 
 Manabi is a new Japanese i+1 core Anki deck, which aims to expand and improve upon other existing core decks for beginner learners of Japanese. Manabi is not a simple repackage of the old core 2k/6k decks but rather it makes use of a much wider variety of example sentences, all with audio and furigana, newly re-ordered, that use natural and colloquial language, not available in other core decks. 
@@ -50,7 +52,7 @@ The deck comes in two versions: the first is kanji oriented (it has only the wor
 I would personally recommend to not read the example sentence before attempting to recall the word’s meaning, in order to avoid memorizing the sentence instead of the word. It goes without saying that you are much more likely to be able to recall the word’s meaning and reading ‘in the wild’ if you can recall it without having to see the example sentence. But this doesn’t mean the example sentences are useless, because they can help you understand how the word is used in context and its grammatical role. Additionally, the sentence can serve as a mnemonic if you are able to associate the sentence with the word and recall the sentence (from memory) when you see the word, serving as a reminder for the word’s meaning.
 
 
-To remove the front sentence go to **tools** -> **manage note type** - > select **Manabi** from the list -> **cards** -> and in **front template** remove the line that contains `{Sentence}` (or `{furigana:Sentence Furigana}` in the kana deck).
+To remove the front sentence go to **Tools** -> **Manage Note Type** - > select **Manabi** from the list -> **Cards** -> and in **Front Template** remove the line that contains `{Sentence}` (or `{furigana:Sentence Furigana}` in the kana deck).
 
 ## Why this deck was created, and how it differs from other core decks
 
