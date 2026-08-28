@@ -1,4 +1,4 @@
-[Download the deck here](https://ankiweb.net/shared/info/2036517903)
+[Download the deck here](https://github.com/fafner8/Manabi/releases/tag/v1.7)
 
 Note: the deck is not affiliated with any other project or resource called Manabi.
 
