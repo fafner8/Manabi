@@ -89,6 +89,8 @@ I addition, Kaishi’s notetypes and formatting were reused, with some modificat
 
 Nothing in this deck is AI generated, except when I relied on AI to help me build various python scripts for ordering the cards, generating furigana and proofing. The furigana was generated using Mecab + UniDic + JMdict (and then checked and proofed). 
 
+The pitch accent graphs were generated using data imported from the NHK pitch dictionary. Kaishi pitch data was used for proofing. When choosing the correct pitch accent to match the audio for words that have more than one possible pitch accent, I used spectrograms to visually verify the pitch in the audio.
+
 I’m the only person who’s been involved in making this deck (aside from small consultations), so if you wish to volunteer to help me further proof the deck you can contact me at fafner1988@gmail.com 
 
 # Credits
