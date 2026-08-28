@@ -63,7 +63,7 @@ If you downloaded the deck before and don’t see the pitch accent graphs after 
 
 Some words have two or more possible pitch accents, either because of grammar or variations between speakers (that exist even within the standard Tokyo dialect). The graphs in the deck always represent the pitch accent heard in the audio to avoid confusion, but it should be kept in mind that words don’t always have the same pitch accent when they pronounced in isolation and within a sentence.
 
-There’s an optional field `{Pitch Number}` (that has to be added manually) where alternate pitch pronunciations are indicated for words when such exist, indicated by the NHK pitch dictionary number notation.
+There’s an optional field `{Pitch Number}` (that has to be added manually) where alternate pitch pronunciations are included for words where such exist, indicated by the NHK pitch dictionary number notation.
 
 ## Why this deck was created, and how it differs from other core decks
 
