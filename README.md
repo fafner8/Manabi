@@ -6,6 +6,8 @@ Note: the deck is not affiliated with any other project or resource called Manab
 
 **Note on updating from versions of the deck older than v1.5**: due to a mistake I made, updating versions of the deck older than v1.5 from the .apkg file results in card duplication (and I sincerely apologize for this). You can either ignore the newest updates because they mostly change very small mistakes (the only major update was v1.3 that fixed some audio that didn’t work on iOS), or you can update the deck by manually importing [this CSV file](https://github.com/fafner8/Manabi/blob/112736d7a0ba6ecf14dd0a14f65cc99cbc611808/Manabi%20v1.7.csv).
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V8B125XP5W)
+
 # Manabi 2.7k highlights
 
 Manabi is a new Japanese i+1 core Anki deck, which aims to expand and improve upon other existing core decks for beginner learners of Japanese. Manabi is not a simple repackage of the old core 2k/6k decks but rather it makes use of a much wider variety of example sentences, all with audio and furigana, newly re-ordered, that use natural and colloquial language, not available in other core decks. 
@@ -93,6 +95,10 @@ Nothing in this deck is AI generated, except when I relied on AI to help me buil
 The pitch accent graphs were generated using data imported from the NHK pitch dictionary. Kaishi pitch data was used for proofing. When choosing the correct pitch accent to match the audio for words that have more than one possible pitch accent, I used spectrograms to visually verify the pitch in the audio.
 
 I’m the only person who’s been involved in making this deck (aside from small consultations), so if you wish to volunteer to help me further proof the deck you can contact me at fafner1988@gmail.com 
+
+If you found this deck helpful, please consider making a donation. Your support will greatly help me keep maintaining and improving the deck.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V8B125XP5W)
 
 # Credits
 
