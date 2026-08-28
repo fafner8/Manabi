@@ -24,7 +24,7 @@ Manabi is a new Japanese i+1 core Anki deck, which aims to expand and improve up
 
 <b> The deck is also available with word furigana + audio on the front (with optional romaji field) </b> [You can download the two versions of the deck on the releases page.](https://github.com/fafner8/Manabi/releases/)
 
-Additional features: normalized audio loudness, specifically marked common する verbs and な adjectives, and all new vocabulary highlighted inside the sentences like in Kaishi.
+Additional features: pitch-accent svg graphs, normalized audio loudness, specifically marked common する verbs and な adjectives, and all new vocabulary highlighted inside the sentences like in Kaishi.
 
 *The example sentences sometimes make use of easily recognizable English-derived katakana words without introducing them in dedicated cards (but some harder katakana words get their own cards).
 
