@@ -29,11 +29,13 @@ Additional features: pitch-accent svg graphs, normalized audio loudness, specifi
 *The example sentences sometimes make use of easily recognizable English-derived katakana words without introducing them in dedicated cards (but some harder katakana words get their own cards).
 
 Card front & back format:
-<img width="1283" height="667" alt="deck1" src="https://github.com/user-attachments/assets/42a26376-eb2a-4993-8066-71cc2230ef78" />
+
+<img width="1209" height="575" alt="manabi cards" src="https://github.com/user-attachments/assets/b9ae4060-9e58-417a-8c99-e245ba2d4438" />
 
 Card front of the kana deck:
 
-<img width="643" height="292" alt="deck2" src="https://github.com/user-attachments/assets/1371c14f-3a06-4258-ab05-fc6858b4f686" />
+<img width="603" height="354" alt="manabi kana front" src="https://github.com/user-attachments/assets/7560cdc8-da6c-4e94-bf04-aaa542c26d90" />
+
 
 ## How to use this deck
 
