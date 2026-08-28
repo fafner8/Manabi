@@ -30,12 +30,11 @@ Additional features: pitch-accent svg graphs, normalized audio loudness, specifi
 
 Card front & back format:
 
-<img width="1209" height="575" alt="manabi cards" src="https://github.com/user-attachments/assets/b9ae4060-9e58-417a-8c99-e245ba2d4438" />
+<img width="983" height="540" alt="manabi cards" src="https://github.com/user-attachments/assets/b6b298d7-8e48-4e30-8823-74a53eb4f285" />
 
 Card front of the kana deck:
 
-<img width="603" height="354" alt="manabi kana front" src="https://github.com/user-attachments/assets/7560cdc8-da6c-4e94-bf04-aaa542c26d90" />
-
+<img width="490" height="309" alt="manabi kana front" src="https://github.com/user-attachments/assets/1bab8369-602d-4cfc-a886-73edff009675" />
 
 ## How to use this deck
 
