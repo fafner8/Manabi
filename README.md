@@ -55,8 +55,15 @@ The deck comes in two versions: the first is kanji oriented (it has only the wor
 
 I would personally recommend to not read the example sentence before attempting to recall the word’s meaning, in order to avoid memorizing the sentence instead of the word. It goes without saying that you are much more likely to be able to recall the word’s meaning and reading ‘in the wild’ if you can recall it without having to see the example sentence. But this doesn’t mean the example sentences are useless, because they can help you understand how the word is used in context and its grammatical role. Additionally, the sentence can serve as a mnemonic if you are able to associate the sentence with the word and recall the sentence (from memory) when you see the word, serving as a reminder for the word’s meaning.
 
-
 To remove the front sentence go to **Tools** -> **Manage Note Type** - > select **Manabi** from the list -> **Cards** -> and in **Front Template** remove the line that contains `{Sentence}` (or `{furigana:Sentence Furigana}` in the kana deck).
+
+### Pitch Accent
+
+If you downloaded the deck before and don’t see the pitch accent graphs after updating, when importing the updated deck click on `updates` and make sure that `Merge note types` is checked, and select `Always` for `Update notes`.
+
+Some words have two or more possible pitch accents, either because of grammar or variations between speakers (that exist even within the standard Tokyo dialect). The graphs in the deck always represent the pitch accent heard in the audio to avoid confusion, but it should be kept in mind that words don’t always have the same pitch accent when they pronounced in isolation and within a sentence.
+
+There’s an optional field `{Pitch Number}` (that has to be added manually) where alternate pitch pronunciations are indicated for words when such exist, indicated by the NHK pitch dictionary number notation.
 
 ## Why this deck was created, and how it differs from other core decks
 
