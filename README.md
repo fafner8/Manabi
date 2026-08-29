@@ -4,7 +4,7 @@ Note: the deck is not affiliated with any other project or resource called Manab
 
 **Note for Kaishi 1.5K users**: the latest update includes a special tag `Kaishi_word` which allows to suspend in bulk all the words that are also included in Kaishi (for more details go to [how to use the deck]( https://github.com/fafner8/Manabi#how-to-use-this-deck))
 
-**Note on updating from versions of the deck older than v1.5**: due to a mistake I made, updating versions of the deck older than v1.5 from the .apkg file results in card duplication (and I sincerely apologize for this). You can either ignore the newest updates because they mostly change very small mistakes (the only major update was v1.3 that fixed some audio that didn’t work on iOS), or you can update the deck by manually importing [this CSV file](https://github.com/fafner8/Manabi/blob/112736d7a0ba6ecf14dd0a14f65cc99cbc611808/Manabi%20v1.7.csv).
+**Note on updating from versions of the deck older than v1.5**: due to a mistake I made, updating versions of the deck older than v1.5 from the .apkg file results in card duplication (and I sincerely apologize for this). You can either ignore the newest updates because they mostly change very small mistakes (the only major update was v1.3 that fixed some audio that didn’t work on iOS, and v1.7 added pitch accent graphs), or you can update the deck by manually importing [this CSV file](https://github.com/fafner8/Manabi/blob/112736d7a0ba6ecf14dd0a14f65cc99cbc611808/Manabi%20v1.7.csv).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V8B125XP5W)
 
