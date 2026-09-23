@@ -73,7 +73,9 @@ There’s an optional field `{Pitch Number}` (that has to be added manually) whe
 The `Kanji Radicals` field (optional – see below) contains the number of strokes in square brackets [], followed by the main radical (the radical by which the kanji is identified in a dictionary), and then the rest of the radicals, plus their meanings in English. 
 
 The radicals for every kanji are listed on the card in which the kanji is first introduced (some cards introduce two new kanjis, in which case both will be listed.)
-The field is disabled by default and needs to be added manually. To enable the field, add `{Kanji Radicals}` to the back template of the card, for example: (adjust font size if needed)
+The field is disabled by default and needs to be added manually. 
+
+To enable the field, add `{Kanji Radicals}` to the back template of the card, for example: (adjust font size if needed)
 
 `<div style='font-size: 20px; padding-bottom:10px'>{{Kanji Radicals}}</div>`
 
