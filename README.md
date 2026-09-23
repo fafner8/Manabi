@@ -106,6 +106,8 @@ Nothing in this deck is AI generated, except when I relied on AI to help me buil
 
 The pitch accent graphs were generated using data imported from the NHK pitch dictionary. Kaishi pitch data was used for proofing. When choosing the correct pitch accent to match the audio for words that have more than one possible pitch accent, I used spectrograms to visually verify the pitch in the audio.
 
+The kanji radical lists were generated using JMdict.
+
 I’m the only person who’s been involved in making this deck (aside from small consultations), so if you wish to volunteer to help me further proof the deck you can contact me at fafner1988@gmail.com 
 
 If you found this deck helpful, please consider making a donation. Your support will greatly help me keep maintaining and improving the deck.
