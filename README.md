@@ -1,4 +1,4 @@
-[Download the deck here](https://ankiweb.net/shared/info/2036517903)
+[Download the deck here](https://github.com/fafner8/Manabi/releases)
 
 Note: the deck is not affiliated with any other project or resource called Manabi.
 
@@ -67,6 +67,17 @@ If you downloaded the deck before and don’t see the pitch accent graphs after 
 Some words have two or more possible pitch accents, either because of grammar or variations between speakers (that exist even within the standard Tokyo dialect). The graphs in the deck always represent the pitch accent heard in the audio to avoid confusion, but it should be kept in mind that words don’t always have the same pitch accent when they pronounced in isolation and within a sentence.
 
 There’s an optional field `{Pitch Number}` (that has to be added manually) where alternate pitch pronunciations are included for words where such exist, indicated by the NHK pitch dictionary number notation.
+
+### Kanji Radicals
+
+The `Kanji Radicals` field (optional – see below) contains the number of strokes in square brackets [], followed by the main radical (the radical by which the kanji is identified in a dictionary), and then the rest of the radicals, plus their meanings in English. 
+
+The radicals for every kanji are listed on the card in which the kanji is first introduced (some cards introduce two new kanjis, in which case both will be listed.)
+The field is disabled by default and needs to be added manually. To enable the field, add `{Kanji Radicals}` to the back template of the card, for example: (adjust font size if needed)
+
+`<div style='font-size: 20px; padding-bottom:10px'>{{Kanji Radicals}}</div>`
+
+You can put the field anywhere in the card, for example under the notes or the kanji word itself.
 
 ## Why this deck was created, and how it differs from other core decks
 
